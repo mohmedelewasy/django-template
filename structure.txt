@@ -1,0 +1,22 @@
+search for jobs
+apply for job
+blog
+user account
+contact form
+
+---------
+job
+	title, location, job type, description
+	published at, n_position, salary
+
+	apply job, post job
+
+blog
+	title, description, publisher, published_at, tags,
+	category
+
+	search, comment, recent posts
+
+contact
+
+log in
