@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'job',
     'bootstrap4',
     'contact',
+    'data',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
@@ -134,6 +136,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'eng.m.elewasy@gmail.com'
-EMAIL_HOST_PASSWORD = 'yojf wexc rsjf hchu'
+EMAIL_HOST_PASSWORD = 'qzfvlbosqogtgcrf'
 EMAIL_USE_TLS = True
 EMAIL_PORT = '587'
